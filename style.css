@@ -45,6 +45,7 @@ header {
 .card-header::after {
   content: " ";
   display: block;
+  align-items: center;
   width: 100%;
   background: #e7e9eb;
   height: 2px;
