@@ -21,3 +21,8 @@ Links to access Git Hub & Live URL
     The system involves defining variables to hold specific data that's compiled through prompts. the user's input , if made to satisfy all criteria, will be presented in a random password that includes all the 
     input criteria. 
 
+    User progress: 
+
+    when the user clicks on the generate passsword button, they are prompted with a window prompt, stating taht passwords can be between 8 or 128 characters. They are asked if they want uppercase and lowercase characters, as well as special characters. When the user selects the approptiate amount of characters, then answers "true" to the boolean criteria, a function triggers, to generate a password using all the characters they've agreed to. 
+
+    
